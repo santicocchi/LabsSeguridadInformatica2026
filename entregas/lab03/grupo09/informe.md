@@ -1,6 +1,6 @@
 # Informe — Laboratorio 03 · Autenticación
 
-**Grupo:** XX · **Integrantes:** *(nombre — usuario GitHub)*
+**Grupo:** 09 · **Integrantes:** *Cocchi Santiago, Ferraro Franco, Mossello Francisco, Spat Tomas, Torres Santiago*
 
 ---
 
